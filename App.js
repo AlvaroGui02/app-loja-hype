@@ -75,7 +75,7 @@ function Tabs() {
         }}
       />
 
-      <Tab.Screen name="Account" component={Account}
+      <Tab.Screen name="Conta" component={Account}
         options={{
           tabBarIcon: ({ color }) => (
             <MaterialCommunityIcons name="account" color={color} size={32} />
