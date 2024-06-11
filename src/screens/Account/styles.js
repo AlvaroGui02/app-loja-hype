@@ -45,7 +45,8 @@ const styles = StyleSheet.create({
     box: {
         position: 'absolute',
         bottom: 50,
-        left: 60
+        left: 60,
+        marginLeft: 90
     }
 });
 

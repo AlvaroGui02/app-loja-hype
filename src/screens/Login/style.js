@@ -12,7 +12,8 @@ const styles = StyleSheet.create({
     logo :{
         width: 360,
         height: 250,
-        marginBottom: 20
+        marginBottom: 20,
+        marginLeft: 80
     },
     input: {
         backgroundColor: '#fff',
